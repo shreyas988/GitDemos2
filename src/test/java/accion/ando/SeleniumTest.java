@@ -8,6 +8,7 @@ public class SeleniumTest {
 	private void browserautomation() {
 		// TODO Auto-generated method stub
 		System.out.println("browser");
+		System.out.println("chrome");
 
 	}
 	
