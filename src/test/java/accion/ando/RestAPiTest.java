@@ -8,6 +8,8 @@ public class RestAPiTest {
 	private void nativerest() {
 		// TODO Auto-generated method stub
 		System.out.println("rest");
+		System.out.println("rest1");
+		System.out.println("rest2");
 
 	}
 	
